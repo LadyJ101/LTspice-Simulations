@@ -1,0 +1,23 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\User\OneDrive\Documents\LTspice\CMOS NAND GATE.net
+Start Time: Sun Jun  7 19:03:53 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Changing Tseed to 7.8125e-09
+Changing Tseed to 7.8125e-11
+Changing Tseed to 7.8125e-08
+Changing Tseed to 7.8125e-12
+Changing Tseed to 7.8125e-07
+Changing Tseed to 7.8125e-13
+Changing Tseed to 7.8125e-06
+Changing Tseed to 7.8125e-14
+Total elapsed time: 0.325 seconds.
+
+Files loaded:
+C:\Users\User\OneDrive\Documents\LTspice\CMOS NAND GATE.net
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.mos
+
