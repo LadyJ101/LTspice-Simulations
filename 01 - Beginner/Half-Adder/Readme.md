@@ -9,7 +9,7 @@ This project implements a digital **Half-Adder** circuit. A half-adder accepts t
 | 0 | 0 | 0 | 0 |
 | 0 | 1 | 1 | 0 |
 | 1 | 0 | 1 | 0 |
-| 1 | 1 | 0 | 1 |
+| 1 | 1 | 0 | 1 |     
 
 ## Simulation Results
 The waveform below confirms the logic by cycling through all input combinations using two pulse sources with different frequencies.
