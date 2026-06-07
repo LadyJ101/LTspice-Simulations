@@ -24,7 +24,12 @@ The captured waveform below demonstrates the clipping action:
 - **Input (Green):** 5V sine wave.
 - **Output (Blue):** Signal clipped at approximately 3V.
 
-![Clipper Circuit Waveform](clipper_waveform.png)
+## Simulation Results
+The following waveform shows the clipping effect. The input signal (green) is a 5V sine wave. The output (blue) is clipped at 3V due to the DC bias source.
+
+![Clipper Circuit Waveform](./Clipper%20Circuit%20Waveform.png)
+
+*Note: The clipping threshold is determined by the DC voltage source V2.*
 
 ## Key Learning Points
 * **Ideal Diode Modeling:** By defining a custom `.model`, we can simulate "perfect" clipping behavior, which is useful for verifying theoretical calculations before using real-world components.
